@@ -6,13 +6,13 @@ const chalk = require('chalk');
 //owmner v card
 global.ytname = "YT: GlobalTechInfo" //ur yt chanel name
 global.socialm = "GitHub: GlobalTechInfo" //ur github or insta name
-global.location = "Pakistan, Karachi, Lahore" //ur location
+global.location = "Pakistan, Karachi, Karachi" //ur location
 
 //new
 global.botname = '© 𝐆𝐋𝐎𝐁𝐀𝐋-𝐌𝐃' //ur bot name
 global.ownernumber = ['923444844060'] //ur owner number, dont add more than one
 global.ownername = '© GlobalTechInfo' //ur owner name
-global.websitex = "https://youtu.be/tLq8_qOOGFI"
+global.websitex = "https://www.youtube.com/@GlobalTechInfo"
 global.wagc = "https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07"
 global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
@@ -34,7 +34,7 @@ global.typereply = 'v4' // reply type 'v1' => 'v4'
 global.autoblocknumber = '91' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
 
-global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
+global.listv = ['➜','☞','㉨','✪','✯','益','⊡','☆','ෆ','✎','⎆','⫹⫺','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆','֎','ᚏ','⸙','⧉']
 global.tempatDB = 'database.json'
 
 global.limit = {
